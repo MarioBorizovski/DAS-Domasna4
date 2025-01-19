@@ -1,0 +1,11 @@
+flask
+werkzeug
+pandas
+numpy
+beautifulsoup4
+selenium
+python-dateutil
+requests
+ta
+gunicorn
+python-dotenv
